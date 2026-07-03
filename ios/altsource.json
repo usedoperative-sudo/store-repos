@@ -1,0 +1,36 @@
+{
+  "name": "Locating's Repository",
+  "identifier": "com.usedoperative.store",
+  "sourceURL": "https://raw.githubusercontent.com/usedoperative-sudo/store-repos/main/altsource.json",
+  "apps": [
+    {
+      "name": "Locating SPP",
+      "bundleIdentifier": "com.locationg.spp",
+      "developerName": "Used",
+      "version": "1.0",
+      "versionDate": "2026-07-02T23:30:00Z",
+      "versionDescription": "Locating's first release.",
+      "size": 81538,
+      "localizedDescription": "This is the first Locating app release, this is a app for finding Vore pathners in a map using the location.",
+      "iconURL": "https://styles.redditmedia.com/t5_2s3m1/styles/communityIcon_8pshoa6le6c91.png",
+      "downloadURL": "https://github.com/usedoperative-sudo/store-repos/releases/download/latest/app.ipa",
+      "screenshotURLs": ["https://iili.io/CYiaPsf.png", "https://iili.io/CYia6WG.png", "https://iili.io/CYiasf4.png", "https://iili.io/CYiaL0l.png", "https://iili.io/CYiaD57.png"],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "Needed to keep the app updated."
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Welcome!",
+      "identifier": "welcome",
+      "caption": "Locating's first release!, this is the fort release pf the Locating Vore app, it includes a profile creator, a map viewer to discover other profiles, global posts (still in beta), opening social media links from profile and more content, plesee enjoy this first version I made woth love to all the preds, preys and switches.",
+      "tintColor": "007AFF",
+      "date": "2026-07-02",
+      "notify": true
+    }
+  ]
+}
