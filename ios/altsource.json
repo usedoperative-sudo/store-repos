@@ -1,7 +1,7 @@
 {
   "name": "Locating's Repository",
   "identifier": "com.usedoperative.store",
-  "sourceURL": "https://raw.githubusercontent.com/usedoperative-sudo/store-repos/main/altsource.json",
+  "sourceURL": "https://raw.githubusercontent.com/usedoperative-sudo/store-repos/main/ios/altsource.json",
   "apps": [
     {
       "name": "Locating SPP",
