@@ -7,7 +7,7 @@
       "name": "Locating SPP",
       "bundleIdentifier": "com.locationg.spp",
       "developerName": "Used",
-      "version": "1.0",
+      "version": "1.0-rc3",
       "versionDate": "2026-07-02T23:30:00Z",
       "versionDescription": "Locating's first release.",
       "size": 81538,
@@ -27,9 +27,17 @@
     {
       "title": "Welcome!",
       "identifier": "welcome",
-      "caption": "Locating's first release!, this is the fort release pf the Locating Vore app, it includes a profile creator, a map viewer to discover other profiles, global posts (still in beta), opening social media links from profile and more content, plesee enjoy this first version I made woth love to all the preds, preys and switches.",
+      "caption": "Locating's first release!, this is the first release of the Locating Vore app, it includes a profile creator, a map viewer to discover other profiles, global posts (still in beta), opening social media links from profile and more content, please enjoy this first version I made with love to all the preds, preys and switches.",
       "tintColor": "007AFF",
       "date": "2026-07-02",
+      "notify": true
+    },
+    {
+      "title": "iOS first bugfix!",
+      "identifier": "ios-bugfix",
+      "caption": "This new release brings with it the correction of a bug that did not allow Android users to receive Posts made by other users, on iOS in addition to the fact that the Liquid Glass issue is now fully supported, a couple of minor bugs on the map were corrected.",
+      "tintColor": "FFA700",
+      "date": "2026-07-07",
       "notify": true
     }
   ]
